@@ -21,7 +21,7 @@ ___
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I have started a new life
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <hr height="100"> </hr>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <hr height="20"> </hr>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In terms of technology limitations are meaningless to me
 <br>
 
