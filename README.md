@@ -21,7 +21,7 @@ ___
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I have started a new life
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://hpv.im/horizontal-line-divider-png-transparent.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/horizontal-line.png">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In terms of technology limitations are meaningless to me
 <br>
 
