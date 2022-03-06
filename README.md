@@ -13,16 +13,17 @@ minesweeper ( programming language : C++ )
 ### Short explanation
 ___
 
-<img align="left" width="140" src="https://s21.picofile.com/file/8442878784/Amir.jpg">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amirhossein arabahmadi
+<img align="right" width="140" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Amirhossein_Arabahmadi.jpg">
+Amirhossein arabahmadi
+<br>
+_______________________
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am variable
+I am variable
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I have started a new life
+And I have started a new life
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <hr>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In terms of technology limitations are meaningless to me
+In terms of technology limitations are meaningless to me
 <br>
 
 ### Why open source ?
